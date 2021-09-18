@@ -1,3 +1,4 @@
 # hello-word
 first
-this is reade-me!
+this is readme-edits!
+
